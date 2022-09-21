@@ -1,0 +1,14 @@
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.exe
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.deps.json
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.runtimeconfig.json
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.runtimeconfig.dev.json
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.dll
+D:\c# uni3\hanoi\hanoi\hanoi\bin\Debug\netcoreapp3.1\hanoi.pdb
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.AssemblyInfoInputs.cache
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.AssemblyInfo.cs
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.dll
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.pdb
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.csproj.AssemblyReference.cache
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.csproj.CoreCompileInputs.cache
+D:\c# uni3\hanoi\hanoi\hanoi\obj\Debug\netcoreapp3.1\hanoi.genruntimeconfig.cache
